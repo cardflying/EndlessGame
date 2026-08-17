@@ -1,0 +1,344 @@
+Built from '6000.5/staging' branch; Version is '6000.5.8f1 (5cb7df797b7d) revision 6076383'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::Module] Trying to connect to existing licensing client channel...
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 12286 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-08-17T07:16:13Z
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Engame" at "2026-08-17T07:16:13.9169869Z"
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.5.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorkerHW2
+-projectPath
+C:/Users/Engame/Desktop/David/EndlessRunner
+-logFile
+Logs/AssetImportWorkerHW2.log
+-srvPort
+50571
+-parentPid
+8000
+-analyticsCloudUserId
+anonymous
+-analyticsCloudProjectId
+a1605acd-bbdc-4107-a658-21369e7a60c2
+-analyticsLocalProjectId
+96fbdbf2cfd897f4994e3ce5cd1efe64
+-editorAnalyticsEnabled
+1
+-cbmEditorLicense
+7109902b142ef53b4ca489d52f3d3cd0c5588dbc
+-cbmMachineId
+FIwLgOHRTG549Hq/UP7NnpCWH+8=
+-licensingIpc
+LicenseClient-Engame
+-noDiagnosticSwitchPersistentStore
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+-force-d3d12
+-name
+AssetImport
+Successfully changed project path to: C:/Users/Engame/Desktop/David/EndlessRunner
+C:/Users/Engame/Desktop/David/EndlessRunner
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=0"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [10700]  Target information:
+
+Player connection [10700]  * "[IP] 192.168.1.43 [Port] 0 [Flags] 2 [Guid] 304757341 [EditorId] 304757341 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UBJJK3A) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [10700] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [10700] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 10.88 ms, found 3 plugins.
+Initialize engine version: 6000.5.8f1 (5cb7df797b7d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Engame/Desktop/David/EndlessRunner/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 11.0]
+    Renderer:        NVIDIA GeForce GTX 670 (ID=0x1189)
+    Vendor:          NVIDIA
+    VRAM:            2007 MB
+    App VRAM Budget: 1706 MB
+    Driver:          30.0.14.7141
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56972
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.1'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Engame"
+[Licensing::IpcConnector] LicenseClient-Engame channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Engame-6000.5.8" at "2026-08-17T07:16:18.1029322Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 3548, path: "C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.1+9fbee8e
+  Session Id:              fd54809016b14a18891a9c51b3b0eb5b
+  Correlation Id:          1d4c0cede568b90511e9dee213801d31
+  External correlation Id: 285083861617432082
+  Machine Id:              FIwLgOHRTG549Hq/UP7NnpCWH+8=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Engame-6000.5.8" (connect: 0.00s, validation: 0.00s, handshake: 0.02s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Engame-6000.5.8-notifications" at "2026-08-17T07:16:18.126928Z"
+[Licensing::Module] Licensing Background thread has ended after 4.21s
+[Licensing::Module] Licensing is initialized (took 1.88s).
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 22088-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 1.890394 seconds.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.755 seconds
+Domain Reload Profiling: 5492ms
+	BeginReloadAssembly (483ms)
+		CreateAndSetChildDomain (4ms)
+	RebuildCommonClasses (15ms)
+	RebuildNativeTypeToScriptingClass (49ms)
+	initialDomainReloadingComplete (2119ms)
+	LoadAllAssembliesAndSetupDomain (1068ms)
+		LoadAssemblies (468ms)
+		AnalyzeDomain (782ms)
+			TypeCache.Refresh (777ms)
+				TypeCache.ScanAssembly (732ms)
+	FinalizeReload (1758ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			BeforeProcessingInitializeOnLoad (385ms)
+			ProcessInitializeOnLoadAttributes (392ms)
+			ProcessInitializeOnLoadMethodAttributes (683ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Initializing Unity extensions:
+[Licensing::Client] Successfully resolved entitlement details
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Refreshing native plugins compatible for Editor in 3.72 ms, found 3 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.142 seconds
+Domain Reload Profiling: 5150ms
+	BeginReloadAssembly (623ms)
+		DisableScriptedObjects (29ms)
+		CreateAndSetChildDomain (89ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (64ms)
+	initialDomainReloadingComplete (197ms)
+	LoadAllAssembliesAndSetupDomain (2097ms)
+		LoadAssemblies (1325ms)
+		AnalyzeDomain (744ms)
+			TypeCache.Refresh (515ms)
+				TypeCache.ScanAssembly (461ms)
+			BuildScriptInfoCaches (210ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (2145ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			BeforeProcessingInitializeOnLoad (294ms)
+			ProcessInitializeOnLoadAttributes (596ms)
+			ProcessInitializeOnLoadMethodAttributes (436ms)
+			AfterProcessingInitializeOnLoad (27ms)
+		AwakeInstancesAfterBackupRestoration (25ms)
+AcceleratorClientConnectionCallback - disconnected - :0
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 4.88 ms, found 3 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Curl error 3: URL rejected: Malformed input to a URL function
+Unloading 6238 unused Assets / (6.3 MB). Loaded Objects now: 7228.
+Memory consumption went from 302.8 MB to 296.5 MB.
+Total: 35.826200 ms (FindLiveObjects: 4.187900 ms CreateObjectMapping: 7.796500 ms MarkObjects: 17.555400 ms  DeleteObjects: 6.281800 ms)
+
+========================================================================
+Received Import Request.
+  Time of request: 2026-08-17T07:16:29.9787675Z
+  Time since last request: 4442.43798960000004 seconds.
+  importAddress: GUID: 81a74a0aefeb7674ca32535d1a269b4a - Path: Assets/Lana Studio/Hyper Casual FX/Prefabs/Area/Area_magic_multicolor.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 81a74a0aefeb7674ca32535d1a269b4a - Path: Assets/Lana Studio/Hyper Casual FX/Prefabs/Area/Area_magic_multicolor.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 81a74a0aefeb7674ca32535d1a269b4a' -> (Import Result ID: '8e850f892a5955c26f8d4ad46c44f6d4') in 0.866 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=915cf2dbcc287221d92d4b8f6de98d50 DependenciesID=a994364b023fcee1bf5836a71d9b2499 StaticDependenciesID=a62ba800782c0829b601c54806ba7dc0 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time of request: 2026-08-17T07:16:30.8756989Z
+  Time since last request: 0.0000503 seconds.
+  importAddress: GUID: 052d5f6cf7d3ebc44bba49fbe653f9a8 - Path: Assets/Lana Studio/Hyper Casual FX/Prefabs/Flash/Flash_star_ellow_green.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 052d5f6cf7d3ebc44bba49fbe653f9a8 - Path: Assets/Lana Studio/Hyper Casual FX/Prefabs/Flash/Flash_star_ellow_green.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 052d5f6cf7d3ebc44bba49fbe653f9a8' -> (Import Result ID: 'bbcd69f71b1e36f63c9041c9a1b568d4') in 0.145 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b971b412df112c6ed58662b0ecdcbc81 DependenciesID=3bd6d8c618174e90d221676f3de5f52f StaticDependenciesID=af2aa36e4a13a5d5d5ae46be3f656faa 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time of request: 2026-08-17T07:16:31.0514268Z
+  Time since last request: 0.0000627 seconds.
+  importAddress: GUID: de42bb30078c66543a0ffad0e6af5932 - Path: Assets/Plugins/Demigiant/DOTween/Modules/DOTween.Modules.asmdef - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: de42bb30078c66543a0ffad0e6af5932 - Path: Assets/Plugins/Demigiant/DOTween/Modules/DOTween.Modules.asmdef - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: de42bb30078c66543a0ffad0e6af5932' -> (Import Result ID: '45d89c404a42593cf358d2136c12f7d8') in 0.012 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=32efbe886f74bb8b87e1362d909c129d DependenciesID=2e5ef1da4e52426dbe7f902a0c9fd1be StaticDependenciesID=6beddda086648e320468e2831d57ab7d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-08-17T07:16:31.1062666Z
+  Time since last request: 0.0005281 seconds.
+  importAddress: GUID: 07a977963523b3b4dbcaa27119f6b469 - Path: Assets/Lana Studio/Hyper Casual FX/Prefabs/Area/Area_star_ellow.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 07a977963523b3b4dbcaa27119f6b469 - Path: Assets/Lana Studio/Hyper Casual FX/Prefabs/Area/Area_star_ellow.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 07a977963523b3b4dbcaa27119f6b469' -> (Import Result ID: '4e7e71672f74babacca8ad668b6cce6f') in 0.134 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=50051c3b14fb9ce455043b463d85eb7b DependenciesID=2fdd25361f14454cd2cdc91ab21e4365 StaticDependenciesID=24c11d815fce41570cd349da69a56385 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 30
+========================================================================
+Received Import Request.
+  Time of request: 2026-08-17T07:16:31.2715437Z
+  Time since last request: 0.0000417 seconds.
+  importAddress: GUID: dae9aa560b4242648a3affa2bfabc365 - Path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: dae9aa560b4242648a3affa2bfabc365 - Path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: dae9aa560b4242648a3affa2bfabc365' -> (Import Result ID: '52213f77fb41d030ac7a69226a068f6d') in 0.021 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3e763ce86edf2c7f77e4d2fe840d48ae DependenciesID=4d9e427800a1296c9b4d354c931fb526 StaticDependenciesID=ad6088200c4657db19a3deb2c60cbc98 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-08-17T07:16:31.3238777Z
+  Time since last request: 0.0010057 seconds.
+  importAddress: GUID: 2e2c6224d345d9249acfa6e8ef40bb2d - Path: Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.XML - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 2e2c6224d345d9249acfa6e8ef40bb2d - Path: Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.XML - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 2e2c6224d345d9249acfa6e8ef40bb2d' -> (Import Result ID: 'd58299c71bf29a7854e8f4f21453f6e8') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=05ac75f50fbb4d14595b5e60e3023e07 DependenciesID=4b49c67d0098c23ce02fe8361a730d91 StaticDependenciesID=57e2aa6a062a86ae1b1560452dbc9324 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-08-17T07:16:31.3686455Z
+  Time since last request: 0.0003673 seconds.
+  importAddress: GUID: 2e79f16be10fbd14f8d5ef191f8db4aa - Path: Assets/Lana Studio/Hyper Casual FX/Prefabs/Confetti/Confetti_blast_multicolor.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 2e79f16be10fbd14f8d5ef191f8db4aa - Path: Assets/Lana Studio/Hyper Casual FX/Prefabs/Confetti/Confetti_blast_multicolor.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 2e79f16be10fbd14f8d5ef191f8db4aa' -> (Import Result ID: '75173c986955a0de7142be3d6f2f4466') in 0.091 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b721eca7f435a792e804e6f63ab5d7ec DependenciesID=ba29d0888b516c355c5548ad8c4e3348 StaticDependenciesID=2b03eede6127d8fff2131fdefb8c86c0 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time of request: 2026-08-17T07:16:31.4986146Z
+  Time since last request: 0.0000508 seconds.
+  importAddress: GUID: 7051dba417b3d53409f2918f1ea4938d - Path: Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 7051dba417b3d53409f2918f1ea4938d - Path: Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 7051dba417b3d53409f2918f1ea4938d' -> (Import Result ID: '284697014006c1c0bcc58e50cf45e5ac') in 0.122 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f9cf3f7a525a2d29540ae346634efa06 DependenciesID=78e1ee8635d8cf7da45309961be7fcd0 StaticDependenciesID=bdf1e0904131261aeeed64fe681034d3 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-08-17T07:16:31.6588299Z
+  Time since last request: 0.0003414 seconds.
+  importAddress: GUID: 2c27f6103c8348844a3cc636de15052a - Path: Assets/Lana Studio/Hyper Casual FX/Prefabs/Flash/Flash_ellow_pink.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 2c27f6103c8348844a3cc636de15052a - Path: Assets/Lana Studio/Hyper Casual FX/Prefabs/Flash/Flash_ellow_pink.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 2c27f6103c8348844a3cc636de15052a' -> (Import Result ID: '528616875ee2eeb42502279b8df15e6c') in 0.140 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1024899f81be7848d8664ed30e3262f5 DependenciesID=9c6f717a24f52be375ae8834fc7634cc StaticDependenciesID=39f43354d504a8e8f23339af03c011a6 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time of request: 2026-08-17T07:16:31.8325892Z
+  Time since last request: 0.0000374 seconds.
+  importAddress: GUID: aa122f157eac1c8428ae5db8a315ccd8 - Path: Assets/Lana Studio/Hyper Casual FX/Prefabs/Flash/Flash_ellow.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: aa122f157eac1c8428ae5db8a315ccd8 - Path: Assets/Lana Studio/Hyper Casual FX/Prefabs/Flash/Flash_ellow.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: aa122f157eac1c8428ae5db8a315ccd8' -> (Import Result ID: '1f8263dc4654cbc697f060651a2a87ff') in 0.173 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a4d5990d4385bb042707035af26cf764 DependenciesID=4193c4d97f8b7fc0691e061f98433582 StaticDependenciesID=bf40e1b303dec842376323813aa7f51b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time of request: 2026-08-17T07:16:32.0340905Z
+  Time since last request: 0.0020639 seconds.
+  importAddress: GUID: ed962e35f7fa6f34f8d27aa6d19ea293 - Path: Assets/Lana Studio/Hyper Casual FX/Prefabs/Confetti/Confetti_directional_multicolor.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: ed962e35f7fa6f34f8d27aa6d19ea293 - Path: Assets/Lana Studio/Hyper Casual FX/Prefabs/Confetti/Confetti_directional_multicolor.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: ed962e35f7fa6f34f8d27aa6d19ea293' -> (Import Result ID: '0cd54ca9a64f902eac92229303df31db') in 0.107 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9aadab1632d45aecb06663297ad89cea DependenciesID=c68614b052841b25770ce331f14b1fe3 StaticDependenciesID=3dbe33bc2263df9cc7475a2b8aa5badc 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 31
+Curl error 28: Failed to connect to config.uca.cloud.unity3d.com port 443 after 21048 ms: Could not connect to server
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

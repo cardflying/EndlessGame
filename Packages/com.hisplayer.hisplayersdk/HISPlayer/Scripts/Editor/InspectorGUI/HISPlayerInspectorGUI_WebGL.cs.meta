@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e1cc32f183078594d9fc8ff27d59074e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 288103
+  packageName: FREE Video Player with Hosting
+  packageVersion: 4.16.0
+  assetPath: Packages/com.hisplayer.hisplayersdk/HISPlayer/Scripts/Editor/InspectorGUI/HISPlayerInspectorGUI_WebGL.cs
+  uploadId: 888080

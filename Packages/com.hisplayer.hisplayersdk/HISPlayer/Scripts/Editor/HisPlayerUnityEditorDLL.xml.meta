@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e94638aa07184a38af89e47cd6e3a46
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 288103
+  packageName: FREE Video Player with Hosting
+  packageVersion: 4.16.0
+  assetPath: Packages/com.hisplayer.hisplayersdk/HISPlayer/Scripts/Editor/HisPlayerUnityEditorDLL.xml
+  uploadId: 888080

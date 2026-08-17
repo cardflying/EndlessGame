@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a001f9c16082447d982b3df8397a72f5
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 288103
+  packageName: FREE Video Player with Hosting
+  packageVersion: 4.16.0
+  assetPath: Packages/com.hisplayer.hisplayersdk/HISPlayer/Scripts/UWP/HisPlayerUnityDLL.xml
+  uploadId: 888080

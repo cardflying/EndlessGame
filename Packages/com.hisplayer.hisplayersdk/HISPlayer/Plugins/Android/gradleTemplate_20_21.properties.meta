@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 634486f9d8c3f46ada7508ffd643ba70
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 288103
+  packageName: FREE Video Player with Hosting
+  packageVersion: 4.16.0
+  assetPath: Packages/com.hisplayer.hisplayersdk/HISPlayer/Plugins/Android/gradleTemplate_20_21.properties
+  uploadId: 888080

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4791d3acaedd21247b5d13e896b7f0a9
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 288103
+  packageName: FREE Video Player with Hosting
+  packageVersion: 4.16.0
+  assetPath: Packages/com.hisplayer.hisplayersdk/HISPlayer/Scripts/Editor/HISPlayer.Editor.asmdef
+  uploadId: 888080
